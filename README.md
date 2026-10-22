@@ -61,6 +61,31 @@ Beyond backend systems, I build predictive data workflows and analytics solution
   <img alt="Learning journey: cumulative languages and topics, projects per language over time, and what was picked up each year" src="https://raw.githubusercontent.com/alfyyakkov/alfyyakkov/main/assets/journey-light.svg" width="100%">
 </picture>
 
+## Open source
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alfyyakkov/alfyyakkov/main/assets/opensource-dark.svg">
+  <img alt="Open-source contributions and the repositories I contribute to most" src="https://raw.githubusercontent.com/alfyyakkov/alfyyakkov/main/assets/opensource-light.svg" width="100%">
+</picture>
+
+**Recent activity**
+
+- ⚪ Closed PR · [Master](https://github.com/vuejs/vue/pull/12189) in [vuejs/vue](https://github.com/vuejs/vue) · Jul 2021
+- 🟢 Open PR · [Create Addnums.php](https://github.com/jowinjohnchemban/Programming/pull/8) in [jowinjohnchemban/Programming](https://github.com/jowinjohnchemban/Programming) · Oct 2020
+- 🟢 Open PR · [Create Addnum.java](https://github.com/jowinjohnchemban/Programming/pull/7) in [jowinjohnchemban/Programming](https://github.com/jowinjohnchemban/Programming) · Oct 2020
+- 🟢 Open PR · [Create Simplecalculator.cpp](https://github.com/jowinjohnchemban/Programming/pull/6) in [jowinjohnchemban/Programming](https://github.com/jowinjohnchemban/Programming) · Oct 2020
+- 🟢 Open PR · [Create alfyyakkov.py](https://github.com/jowinjohnchemban/Programming/pull/5) in [jowinjohnchemban/Programming](https://github.com/jowinjohnchemban/Programming) · Oct 2020
+- 🟢 Open PR · [Create alfyyakkov.md](https://github.com/wajahatkarim3/Hacktoberfest2020/pull/362) in [wajahatkarim3/Hacktoberfest2020](https://github.com/wajahatkarim3/Hacktoberfest2020) · Oct 2020
+
+## Recently active projects
+
+- **[alfykyakkov](https://github.com/alfyyakkov/alfykyakkov)**
+- **[task-management-django](https://github.com/alfyyakkov/task-management-django)** · Python — A Django-based task management system with JWT authentication, role-based access (SuperAdmin, Admin, User), and task assignment. Users subm…
+- **[repair-connect](https://github.com/alfyyakkov/repair-connect)** — A service booking platform — an app for home appliance services that connects service providers with customers for quick and easy bookings.
+- **[loan\_management](https://github.com/alfyyakkov/loan_management)**
+- **[Holidays](https://github.com/alfyyakkov/Holidays)** · Python — Test Project
+- **[onlinefoodordering](https://github.com/alfyyakkov/onlinefoodordering)** · JavaScript
+
 <p align="center"><sub>
-⚡ Refreshed every 6 hours by <a href="https://github.com/alfyyakkov/alfyyakkov/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->22 Oct 2026, 11:14 pm IST<!-- /stamp --> · <a href="https://github.com/alfyyakkov/alfyyakkov/fork">Fork it</a> to make your own
+⚡ Refreshed every 6 hours by <a href="https://github.com/alfyyakkov/alfyyakkov/actions/workflows/refresh-profile.yml">GitHub Actions</a> · data last changed <!-- stamp -->23 Oct 2026, 3:16 am IST<!-- /stamp --> · <a href="https://github.com/alfyyakkov/alfyyakkov/fork">Fork it</a> to make your own
 </sub></p>

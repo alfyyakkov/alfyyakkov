@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-label="Contribution trend. By year: 2017 1, 2018 36, 2019 85, 2020 98, 2021 53, 2022 98, 2023 183, 2024 53, 2025 127, 2026 643. Past year by type: Commits 173, Pull requests 10, Issues 1, Code reviews 0, New repos 22, Private work 542">
-<title>Contribution trend. By year: 2017 1, 2018 36, 2019 85, 2020 98, 2021 53, 2022 98, 2023 183, 2024 53, 2025 127, 2026 643. Past year by type: Commits 173, Pull requests 10, Issues 1, Code reviews 0, New repos 22, Private work 542</title>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="310" viewBox="0 0 1000 310" role="img" aria-label="Contribution trend. By year: 2020 8, 2021 37, 2022 0, 2023 0, 2024 0, 2025 17, 2026 2. Past year by type: Commits 1, Pull requests 0, Issues 0, Code reviews 0, New repos 1">
+<title>Contribution trend. By year: 2020 8, 2021 37, 2022 0, 2023 0, 2024 0, 2025 17, 2026 2. Past year by type: Commits 1, Pull requests 0, Issues 0, Code reviews 0, New repos 1</title>
 <style>
 text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #e6edf3; }
 .muted { fill: #9198a1; }
@@ -17,39 +17,34 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <line x1="70" y1="260" x2="480" y2="260" stroke="#30363d"/>
 <text class="axis muted" x="60" y="264" text-anchor="end">0</text>
 <line x1="70" y1="185" x2="480" y2="185" stroke="#161b22"/>
-<text class="axis muted" x="60" y="189" text-anchor="end">500</text>
+<text class="axis muted" x="60" y="189" text-anchor="end">25</text>
 <line x1="70" y1="110" x2="480" y2="110" stroke="#161b22"/>
-<text class="axis muted" x="60" y="114" text-anchor="end">1,000</text>
-<text class="axis muted" x="70" y="280" text-anchor="middle">2017</text>
-<text class="axis muted" x="115.6" y="280" text-anchor="middle">2018</text>
-<text class="axis muted" x="161.1" y="280" text-anchor="middle">2019</text>
-<text class="axis muted" x="206.7" y="280" text-anchor="middle">2020</text>
-<text class="axis muted" x="252.2" y="280" text-anchor="middle">2021</text>
-<text class="axis muted" x="297.8" y="280" text-anchor="middle">2022</text>
-<text class="axis muted" x="343.3" y="280" text-anchor="middle">2023</text>
-<text class="axis muted" x="388.9" y="280" text-anchor="middle">2024</text>
-<text class="axis muted" x="434.4" y="280" text-anchor="middle">2025</text>
+<text class="axis muted" x="60" y="114" text-anchor="end">50</text>
+<text class="axis muted" x="70" y="280" text-anchor="middle">2020</text>
+<text class="axis muted" x="138.3" y="280" text-anchor="middle">2021</text>
+<text class="axis muted" x="206.7" y="280" text-anchor="middle">2022</text>
+<text class="axis muted" x="275" y="280" text-anchor="middle">2023</text>
+<text class="axis muted" x="343.3" y="280" text-anchor="middle">2024</text>
+<text class="axis muted" x="411.7" y="280" text-anchor="middle">2025</text>
 <text class="axis muted" x="480" y="280" text-anchor="middle">2026</text>
-<path d="M70,259.9L115.6,254.6L161.1,247.3L206.7,245.3L252.2,252.1L297.8,245.3L343.3,232.6L388.9,252.1L434.4,240.9L480,163.6L480,260L70,260Z" fill="#58a6ff" opacity="0.15"/>
-<path class="line" d="M70,259.9L115.6,254.6L161.1,247.3L206.7,245.3L252.2,252.1L297.8,245.3L343.3,232.6L388.9,252.1L434.4,240.9L480,163.6" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="480" cy="163.6" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
-<text class="val" x="480" y="153.6" text-anchor="middle">643</text>
-<circle cx="70" cy="259.9" r="9" fill="transparent"><title>2017: 1</title></circle>
-<circle cx="115.6" cy="254.6" r="9" fill="transparent"><title>2018: 36</title></circle>
-<circle cx="161.1" cy="247.3" r="9" fill="transparent"><title>2019: 85</title></circle>
-<circle cx="206.7" cy="245.3" r="9" fill="transparent"><title>2020: 98</title></circle>
-<circle cx="252.2" cy="252.1" r="9" fill="transparent"><title>2021: 53</title></circle>
-<circle cx="297.8" cy="245.3" r="9" fill="transparent"><title>2022: 98</title></circle>
-<circle cx="343.3" cy="232.6" r="9" fill="transparent"><title>2023: 183</title></circle>
-<circle cx="388.9" cy="252.1" r="9" fill="transparent"><title>2024: 53</title></circle>
-<circle cx="434.4" cy="240.9" r="9" fill="transparent"><title>2025: 127</title></circle>
-<circle cx="480" cy="163.6" r="9" fill="transparent"><title>2026: 643</title></circle>
+<path d="M70,236L138.3,149L206.7,260L275,260L343.3,260L411.7,209L480,254L480,260L70,260Z" fill="#58a6ff" opacity="0.15"/>
+<path class="line" d="M70,236L138.3,149L206.7,260L275,260L343.3,260L411.7,209L480,254" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="138.3" cy="149" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
+<text class="val" x="138.3" y="139" text-anchor="middle">37</text>
+<circle cx="480" cy="254" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
+<text class="val" x="480" y="244" text-anchor="middle">2</text>
+<circle cx="70" cy="236" r="9" fill="transparent"><title>2020: 8</title></circle>
+<circle cx="138.3" cy="149" r="9" fill="transparent"><title>2021: 37</title></circle>
+<circle cx="206.7" cy="260" r="9" fill="transparent"><title>2022: 0</title></circle>
+<circle cx="275" cy="260" r="9" fill="transparent"><title>2023: 0</title></circle>
+<circle cx="343.3" cy="260" r="9" fill="transparent"><title>2024: 0</title></circle>
+<circle cx="411.7" cy="209" r="9" fill="transparent"><title>2025: 17</title></circle>
+<circle cx="480" cy="254" r="9" fill="transparent"><title>2026: 2</title></circle>
 <line x1="530" y1="66" x2="530" y2="288" stroke="#30363d"/>
 <text class="k muted" x="562" y="80">Past year, by type</text>
-<text class="row" x="562" y="109">Commits</text><path d="M678,98H737.8Q741.8,98 741.8,102V106Q741.8,110 737.8,110H678Z" fill="#58a6ff"/><text class="val" x="749.8" y="109">173</text>
-<text class="row" x="562" y="135">Pull requests</text><path d="M678,124H678Q681.7,124 681.7,127.7V132.3Q681.7,136 678,136H678Z" fill="#58a6ff"/><text class="val" x="689.7" y="135">10</text>
-<text class="row" x="562" y="161">Issues</text><path d="M678,150H678Q678.4,150 678.4,150.4V161.6Q678.4,162 678,162H678Z" fill="#58a6ff"/><text class="val" x="686.4" y="161">1</text>
-<text class="row" x="562" y="187">Code reviews</text><text class="val" x="686" y="187">0</text>
-<text class="row" x="562" y="213">New repos</text><path d="M678,202H682.1Q686.1,202 686.1,206V210Q686.1,214 682.1,214H678Z" fill="#58a6ff"/><text class="val" x="694.1" y="213">22</text>
-<text class="row" x="562" y="239">Private work</text><path d="M678,228H874Q878,228 878,232V236Q878,240 874,240H678Z" fill="#58a6ff"/><text class="val" x="886" y="239">542</text>
+<text class="row" x="562" y="109">Commits</text><path d="M678,98H874Q878,98 878,102V106Q878,110 874,110H678Z" fill="#58a6ff"/><text class="val" x="886" y="109">1</text>
+<text class="row" x="562" y="141">Pull requests</text><text class="val" x="686" y="141">0</text>
+<text class="row" x="562" y="173">Issues</text><text class="val" x="686" y="173">0</text>
+<text class="row" x="562" y="205">Code reviews</text><text class="val" x="686" y="205">0</text>
+<text class="row" x="562" y="237">New repos</text><path d="M678,226H874Q878,226 878,230V234Q878,238 874,238H678Z" fill="#58a6ff"/><text class="val" x="886" y="237">1</text>
 </svg>
