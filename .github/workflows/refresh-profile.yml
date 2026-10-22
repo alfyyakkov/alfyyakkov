@@ -1,0 +1,46 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'config.js'
+      - 'scripts/**'
+      - '.github/workflows/refresh-profile.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate cards and sections
+        run: node scripts/generate.mjs
+        env:
+          # Optional: a PROFILE_TOKEN secret (fine-grained, read-only, all repositories) adds
+          # private contributions and private repos (shown by name only) to the profile.
+          GH_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+          GH_LOGIN: ${{ github.repository_owner }}
+
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets README.md
+          if git diff --cached --quiet; then
+            echo 'Nothing changed.'
+          else
+            git commit -m 'Refresh profile cards'
+            git push
+          fi

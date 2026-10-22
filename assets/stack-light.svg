@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="372" viewBox="0 0 1000 372" role="img" aria-label="Tech stack. Backend: Python, Django, Django REST Framework, Celery, WebSockets, Daphne, Gunicorn; Frontend: JavaScript, React, HTML5, CSS3, Bootstrap; Data &#38; AI: Machine Learning, Scikit-learn, Pandas, NumPy, PySpark, Power BI; Databases: PostgreSQL, MySQL, AWS RDS, Query Optimization, Database Indexing; Cloud &#38; DevOps: AWS EC2, DigitalOcean, Linux (Ubuntu/Debian), Nginx, Git, CI/CD; APIs &#38; Services: Razorpay, HDFC SmartGateway, Easebuzz, OneSignal, PickyAssist, Google Maps">
+<title>Tech stack. Backend: Python, Django, Django REST Framework, Celery, WebSockets, Daphne, Gunicorn; Frontend: JavaScript, React, HTML5, CSS3, Bootstrap; Data &#38; AI: Machine Learning, Scikit-learn, Pandas, NumPy, PySpark, Power BI; Databases: PostgreSQL, MySQL, AWS RDS, Query Optimization, Database Indexing; Cloud &#38; DevOps: AWS EC2, DigitalOcean, Linux (Ubuntu/Debian), Nginx, Git, CI/CD; APIs &#38; Services: Razorpay, HDFC SmartGateway, Easebuzz, OneSignal, PickyAssist, Google Maps</title>
+<style>
+text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; fill: #1f2328; }
+.muted { fill: #59636e; }
+.h { font-size: 19px; font-weight: 600; }
+.k { font-size: 13px; font-weight: 600; letter-spacing: 0.2px; }
+.axis { font-size: 12px; }
+.val { font-size: 12px; font-weight: 600; }
+.row { font-size: 14px; }
+.group { font-size: 15px; font-weight: 600; } .pill { font-size: 14px; text-anchor: middle; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="999" height="371" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+<text class="h" x="32" y="40">Tech stack</text>
+<text class="group muted" x="32" y="76">Backend</text>
+<g transform="translate(180,55)"><rect width="71.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="35.6" y="21">Python</text></g>
+<g transform="translate(261.2,55)"><rect width="71.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="35.6" y="21">Django</text></g>
+<g transform="translate(342.4,55)"><rect width="194.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="97.1" y="21">Django REST Framework</text></g>
+<g transform="translate(546.6,55)"><rect width="71.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="35.6" y="21">Celery</text></g>
+<g transform="translate(627.8,55)"><rect width="104" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52" y="21">WebSockets</text></g>
+<g transform="translate(741.8,55)"><rect width="71.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="35.6" y="21">Daphne</text></g>
+<g transform="translate(823,55)"><rect width="87.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="43.8" y="21">Gunicorn</text></g>
+<text class="group muted" x="32" y="126">Frontend</text>
+<g transform="translate(180,105)"><rect width="104" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52" y="21">JavaScript</text></g>
+<g transform="translate(294,105)"><rect width="63" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">React</text></g>
+<g transform="translate(367,105)"><rect width="63" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">HTML5</text></g>
+<g transform="translate(440,105)"><rect width="54.8" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="27.4" y="21">CSS3</text></g>
+<g transform="translate(504.8,105)"><rect width="95.8" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="47.9" y="21">Bootstrap</text></g>
+<text class="group muted" x="32" y="176">Data &#38; AI</text>
+<g transform="translate(180,155)"><rect width="153.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="76.6" y="21">Machine Learning</text></g>
+<g transform="translate(343.2,155)"><rect width="120.4" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="60.2" y="21">Scikit-learn</text></g>
+<g transform="translate(473.6,155)"><rect width="71.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="35.6" y="21">Pandas</text></g>
+<g transform="translate(554.8,155)"><rect width="63" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">NumPy</text></g>
+<g transform="translate(627.8,155)"><rect width="79.4" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="39.7" y="21">PySpark</text></g>
+<g transform="translate(717.2,155)"><rect width="87.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="43.8" y="21">Power BI</text></g>
+<text class="group muted" x="32" y="226">Databases</text>
+<g transform="translate(180,205)"><rect width="104" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="52" y="21">PostgreSQL</text></g>
+<g transform="translate(294,205)"><rect width="63" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">MySQL</text></g>
+<g transform="translate(367,205)"><rect width="79.4" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="39.7" y="21">AWS RDS</text></g>
+<g transform="translate(456.4,205)"><rect width="169.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="84.8" y="21">Query Optimization</text></g>
+<g transform="translate(636,205)"><rect width="161.4" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="80.7" y="21">Database Indexing</text></g>
+<text class="group muted" x="32" y="276">Cloud &#38; DevOps</text>
+<g transform="translate(180,255)"><rect width="79.4" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="39.7" y="21">AWS EC2</text></g>
+<g transform="translate(269.4,255)"><rect width="120.4" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="60.2" y="21">DigitalOcean</text></g>
+<g transform="translate(399.8,255)"><rect width="194.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="97.1" y="21">Linux (Ubuntu/Debian)</text></g>
+<g transform="translate(604,255)"><rect width="63" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">Nginx</text></g>
+<g transform="translate(677,255)"><rect width="46.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="23.3" y="21">Git</text></g>
+<g transform="translate(733.6,255)"><rect width="63" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="31.5" y="21">CI/CD</text></g>
+<text class="group muted" x="32" y="326">APIs &#38; Services</text>
+<g transform="translate(180,305)"><rect width="87.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="43.8" y="21">Razorpay</text></g>
+<g transform="translate(277.6,305)"><rect width="161.4" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="80.7" y="21">HDFC SmartGateway</text></g>
+<g transform="translate(449,305)"><rect width="87.6" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="43.8" y="21">Easebuzz</text></g>
+<g transform="translate(546.6,305)"><rect width="95.8" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="47.9" y="21">OneSignal</text></g>
+<g transform="translate(652.4,305)"><rect width="112.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="56.1" y="21">PickyAssist</text></g>
+<g transform="translate(774.6,305)"><rect width="112.2" height="32" rx="16" fill="#f6f8fa" stroke="#d0d7de"/><text class="pill" x="56.1" y="21">Google Maps</text></g>
+</svg>
