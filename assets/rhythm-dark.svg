@@ -20,75 +20,77 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Ne
 <text class="axis muted" x="60" y="189" text-anchor="end">1</text>
 <line x1="70" y1="110" x2="480" y2="110" stroke="#161b22"/>
 <text class="axis muted" x="60" y="114" text-anchor="end">2</text>
-<text class="axis muted" x="85.8" y="280" text-anchor="middle">Nov</text>
-<text class="axis muted" x="125.2" y="280" text-anchor="middle">Dec</text>
-<text class="axis muted" x="156.7" y="280" text-anchor="middle">Jan</text>
-<text class="axis muted" x="188.3" y="280" text-anchor="middle">Feb</text>
-<text class="axis muted" x="219.8" y="280" text-anchor="middle">Mar</text>
-<text class="axis muted" x="259.2" y="280" text-anchor="middle">Apr</text>
-<text class="axis muted" x="290.8" y="280" text-anchor="middle">May</text>
-<text class="axis muted" x="330.2" y="280" text-anchor="middle">Jun</text>
-<text class="axis muted" x="361.7" y="280" text-anchor="middle">Jul</text>
-<text class="axis muted" x="393.3" y="280" text-anchor="middle">Aug</text>
-<text class="axis muted" x="432.7" y="280" text-anchor="middle">Sep</text>
-<text class="axis muted" x="464.2" y="280" text-anchor="middle">Oct</text>
-<path d="M70,260L77.9,260L85.8,260L93.7,260L101.5,260L109.4,260L117.3,260L125.2,260L133.1,260L141,260L148.8,260L156.7,260L164.6,260L172.5,260L180.4,260L188.3,260L196.2,260L204,260L211.9,260L219.8,260L227.7,260L235.6,260L243.5,260L251.3,260L259.2,260L267.1,260L275,260L282.9,260L290.8,260L298.7,260L306.5,260L314.4,260L322.3,260L330.2,260L338.1,260L346,260L353.8,260L361.7,260L369.6,260L377.5,260L385.4,260L393.3,260L401.2,260L409,260L416.9,260L424.8,260L432.7,260L440.6,260L448.5,260L456.3,260L464.2,260L472.1,260L480,110L480,260L70,260Z" fill="#58a6ff" opacity="0.15"/>
-<path class="line" d="M70,260L77.9,260L85.8,260L93.7,260L101.5,260L109.4,260L117.3,260L125.2,260L133.1,260L141,260L148.8,260L156.7,260L164.6,260L172.5,260L180.4,260L188.3,260L196.2,260L204,260L211.9,260L219.8,260L227.7,260L235.6,260L243.5,260L251.3,260L259.2,260L267.1,260L275,260L282.9,260L290.8,260L298.7,260L306.5,260L314.4,260L322.3,260L330.2,260L338.1,260L346,260L353.8,260L361.7,260L369.6,260L377.5,260L385.4,260L393.3,260L401.2,260L409,260L416.9,260L424.8,260L432.7,260L440.6,260L448.5,260L456.3,260L464.2,260L472.1,260L480,110" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="480" cy="110" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
-<text class="val" x="480" y="100" text-anchor="middle">2</text>
-<circle cx="70" cy="260" r="9" fill="transparent"><title>Week of 2025-10-19: 0</title></circle>
-<circle cx="77.9" cy="260" r="9" fill="transparent"><title>Week of 2025-10-26: 0</title></circle>
-<circle cx="85.8" cy="260" r="9" fill="transparent"><title>Week of 2025-11-02: 0</title></circle>
-<circle cx="93.7" cy="260" r="9" fill="transparent"><title>Week of 2025-11-09: 0</title></circle>
-<circle cx="101.5" cy="260" r="9" fill="transparent"><title>Week of 2025-11-16: 0</title></circle>
-<circle cx="109.4" cy="260" r="9" fill="transparent"><title>Week of 2025-11-23: 0</title></circle>
-<circle cx="117.3" cy="260" r="9" fill="transparent"><title>Week of 2025-11-30: 0</title></circle>
-<circle cx="125.2" cy="260" r="9" fill="transparent"><title>Week of 2025-12-07: 0</title></circle>
-<circle cx="133.1" cy="260" r="9" fill="transparent"><title>Week of 2025-12-14: 0</title></circle>
-<circle cx="141" cy="260" r="9" fill="transparent"><title>Week of 2025-12-21: 0</title></circle>
-<circle cx="148.8" cy="260" r="9" fill="transparent"><title>Week of 2025-12-28: 0</title></circle>
-<circle cx="156.7" cy="260" r="9" fill="transparent"><title>Week of 2026-01-04: 0</title></circle>
-<circle cx="164.6" cy="260" r="9" fill="transparent"><title>Week of 2026-01-11: 0</title></circle>
-<circle cx="172.5" cy="260" r="9" fill="transparent"><title>Week of 2026-01-18: 0</title></circle>
-<circle cx="180.4" cy="260" r="9" fill="transparent"><title>Week of 2026-01-25: 0</title></circle>
-<circle cx="188.3" cy="260" r="9" fill="transparent"><title>Week of 2026-02-01: 0</title></circle>
-<circle cx="196.2" cy="260" r="9" fill="transparent"><title>Week of 2026-02-08: 0</title></circle>
-<circle cx="204" cy="260" r="9" fill="transparent"><title>Week of 2026-02-15: 0</title></circle>
-<circle cx="211.9" cy="260" r="9" fill="transparent"><title>Week of 2026-02-22: 0</title></circle>
-<circle cx="219.8" cy="260" r="9" fill="transparent"><title>Week of 2026-03-01: 0</title></circle>
-<circle cx="227.7" cy="260" r="9" fill="transparent"><title>Week of 2026-03-08: 0</title></circle>
-<circle cx="235.6" cy="260" r="9" fill="transparent"><title>Week of 2026-03-15: 0</title></circle>
-<circle cx="243.5" cy="260" r="9" fill="transparent"><title>Week of 2026-03-22: 0</title></circle>
-<circle cx="251.3" cy="260" r="9" fill="transparent"><title>Week of 2026-03-29: 0</title></circle>
-<circle cx="259.2" cy="260" r="9" fill="transparent"><title>Week of 2026-04-05: 0</title></circle>
-<circle cx="267.1" cy="260" r="9" fill="transparent"><title>Week of 2026-04-12: 0</title></circle>
-<circle cx="275" cy="260" r="9" fill="transparent"><title>Week of 2026-04-19: 0</title></circle>
-<circle cx="282.9" cy="260" r="9" fill="transparent"><title>Week of 2026-04-26: 0</title></circle>
-<circle cx="290.8" cy="260" r="9" fill="transparent"><title>Week of 2026-05-03: 0</title></circle>
-<circle cx="298.7" cy="260" r="9" fill="transparent"><title>Week of 2026-05-10: 0</title></circle>
-<circle cx="306.5" cy="260" r="9" fill="transparent"><title>Week of 2026-05-17: 0</title></circle>
-<circle cx="314.4" cy="260" r="9" fill="transparent"><title>Week of 2026-05-24: 0</title></circle>
-<circle cx="322.3" cy="260" r="9" fill="transparent"><title>Week of 2026-05-31: 0</title></circle>
-<circle cx="330.2" cy="260" r="9" fill="transparent"><title>Week of 2026-06-07: 0</title></circle>
-<circle cx="338.1" cy="260" r="9" fill="transparent"><title>Week of 2026-06-14: 0</title></circle>
-<circle cx="346" cy="260" r="9" fill="transparent"><title>Week of 2026-06-21: 0</title></circle>
-<circle cx="353.8" cy="260" r="9" fill="transparent"><title>Week of 2026-06-28: 0</title></circle>
-<circle cx="361.7" cy="260" r="9" fill="transparent"><title>Week of 2026-07-05: 0</title></circle>
-<circle cx="369.6" cy="260" r="9" fill="transparent"><title>Week of 2026-07-12: 0</title></circle>
-<circle cx="377.5" cy="260" r="9" fill="transparent"><title>Week of 2026-07-19: 0</title></circle>
-<circle cx="385.4" cy="260" r="9" fill="transparent"><title>Week of 2026-07-26: 0</title></circle>
-<circle cx="393.3" cy="260" r="9" fill="transparent"><title>Week of 2026-08-02: 0</title></circle>
-<circle cx="401.2" cy="260" r="9" fill="transparent"><title>Week of 2026-08-09: 0</title></circle>
-<circle cx="409" cy="260" r="9" fill="transparent"><title>Week of 2026-08-16: 0</title></circle>
-<circle cx="416.9" cy="260" r="9" fill="transparent"><title>Week of 2026-08-23: 0</title></circle>
-<circle cx="424.8" cy="260" r="9" fill="transparent"><title>Week of 2026-08-30: 0</title></circle>
-<circle cx="432.7" cy="260" r="9" fill="transparent"><title>Week of 2026-09-06: 0</title></circle>
-<circle cx="440.6" cy="260" r="9" fill="transparent"><title>Week of 2026-09-13: 0</title></circle>
-<circle cx="448.5" cy="260" r="9" fill="transparent"><title>Week of 2026-09-20: 0</title></circle>
-<circle cx="456.3" cy="260" r="9" fill="transparent"><title>Week of 2026-09-27: 0</title></circle>
-<circle cx="464.2" cy="260" r="9" fill="transparent"><title>Week of 2026-10-04: 0</title></circle>
-<circle cx="472.1" cy="260" r="9" fill="transparent"><title>Week of 2026-10-11: 0</title></circle>
-<circle cx="480" cy="110" r="9" fill="transparent"><title>Week of 2026-10-18: 2</title></circle>
+<text class="axis muted" x="77.9" y="280" text-anchor="middle">Nov</text>
+<text class="axis muted" x="117.3" y="280" text-anchor="middle">Dec</text>
+<text class="axis muted" x="148.8" y="280" text-anchor="middle">Jan</text>
+<text class="axis muted" x="180.4" y="280" text-anchor="middle">Feb</text>
+<text class="axis muted" x="211.9" y="280" text-anchor="middle">Mar</text>
+<text class="axis muted" x="251.3" y="280" text-anchor="middle">Apr</text>
+<text class="axis muted" x="282.9" y="280" text-anchor="middle">May</text>
+<text class="axis muted" x="322.3" y="280" text-anchor="middle">Jun</text>
+<text class="axis muted" x="353.8" y="280" text-anchor="middle">Jul</text>
+<text class="axis muted" x="385.4" y="280" text-anchor="middle">Aug</text>
+<text class="axis muted" x="424.8" y="280" text-anchor="middle">Sep</text>
+<text class="axis muted" x="456.3" y="280" text-anchor="middle">Oct</text>
+<path d="M70,260L77.9,260L85.8,260L93.7,260L101.5,260L109.4,260L117.3,260L125.2,260L133.1,260L141,260L148.8,260L156.7,260L164.6,260L172.5,260L180.4,260L188.3,260L196.2,260L204,260L211.9,260L219.8,260L227.7,260L235.6,260L243.5,260L251.3,260L259.2,260L267.1,260L275,260L282.9,260L290.8,260L298.7,260L306.5,260L314.4,260L322.3,260L330.2,260L338.1,260L346,260L353.8,260L361.7,260L369.6,260L377.5,260L385.4,260L393.3,260L401.2,260L409,260L416.9,260L424.8,260L432.7,260L440.6,260L448.5,260L456.3,260L464.2,260L472.1,110L480,260L480,260L70,260Z" fill="#58a6ff" opacity="0.15"/>
+<path class="line" d="M70,260L77.9,260L85.8,260L93.7,260L101.5,260L109.4,260L117.3,260L125.2,260L133.1,260L141,260L148.8,260L156.7,260L164.6,260L172.5,260L180.4,260L188.3,260L196.2,260L204,260L211.9,260L219.8,260L227.7,260L235.6,260L243.5,260L251.3,260L259.2,260L267.1,260L275,260L282.9,260L290.8,260L298.7,260L306.5,260L314.4,260L322.3,260L330.2,260L338.1,260L346,260L353.8,260L361.7,260L369.6,260L377.5,260L385.4,260L393.3,260L401.2,260L409,260L416.9,260L424.8,260L432.7,260L440.6,260L448.5,260L456.3,260L464.2,260L472.1,110L480,260" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="472.1" cy="110" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
+<text class="val" x="472.1" y="100" text-anchor="middle">2</text>
+<circle cx="480" cy="260" r="4" fill="#58a6ff" stroke="#0d1117" stroke-width="2"/>
+<text class="val" x="480" y="250" text-anchor="middle">0</text>
+<circle cx="70" cy="260" r="9" fill="transparent"><title>Week of 2025-10-26: 0</title></circle>
+<circle cx="77.9" cy="260" r="9" fill="transparent"><title>Week of 2025-11-02: 0</title></circle>
+<circle cx="85.8" cy="260" r="9" fill="transparent"><title>Week of 2025-11-09: 0</title></circle>
+<circle cx="93.7" cy="260" r="9" fill="transparent"><title>Week of 2025-11-16: 0</title></circle>
+<circle cx="101.5" cy="260" r="9" fill="transparent"><title>Week of 2025-11-23: 0</title></circle>
+<circle cx="109.4" cy="260" r="9" fill="transparent"><title>Week of 2025-11-30: 0</title></circle>
+<circle cx="117.3" cy="260" r="9" fill="transparent"><title>Week of 2025-12-07: 0</title></circle>
+<circle cx="125.2" cy="260" r="9" fill="transparent"><title>Week of 2025-12-14: 0</title></circle>
+<circle cx="133.1" cy="260" r="9" fill="transparent"><title>Week of 2025-12-21: 0</title></circle>
+<circle cx="141" cy="260" r="9" fill="transparent"><title>Week of 2025-12-28: 0</title></circle>
+<circle cx="148.8" cy="260" r="9" fill="transparent"><title>Week of 2026-01-04: 0</title></circle>
+<circle cx="156.7" cy="260" r="9" fill="transparent"><title>Week of 2026-01-11: 0</title></circle>
+<circle cx="164.6" cy="260" r="9" fill="transparent"><title>Week of 2026-01-18: 0</title></circle>
+<circle cx="172.5" cy="260" r="9" fill="transparent"><title>Week of 2026-01-25: 0</title></circle>
+<circle cx="180.4" cy="260" r="9" fill="transparent"><title>Week of 2026-02-01: 0</title></circle>
+<circle cx="188.3" cy="260" r="9" fill="transparent"><title>Week of 2026-02-08: 0</title></circle>
+<circle cx="196.2" cy="260" r="9" fill="transparent"><title>Week of 2026-02-15: 0</title></circle>
+<circle cx="204" cy="260" r="9" fill="transparent"><title>Week of 2026-02-22: 0</title></circle>
+<circle cx="211.9" cy="260" r="9" fill="transparent"><title>Week of 2026-03-01: 0</title></circle>
+<circle cx="219.8" cy="260" r="9" fill="transparent"><title>Week of 2026-03-08: 0</title></circle>
+<circle cx="227.7" cy="260" r="9" fill="transparent"><title>Week of 2026-03-15: 0</title></circle>
+<circle cx="235.6" cy="260" r="9" fill="transparent"><title>Week of 2026-03-22: 0</title></circle>
+<circle cx="243.5" cy="260" r="9" fill="transparent"><title>Week of 2026-03-29: 0</title></circle>
+<circle cx="251.3" cy="260" r="9" fill="transparent"><title>Week of 2026-04-05: 0</title></circle>
+<circle cx="259.2" cy="260" r="9" fill="transparent"><title>Week of 2026-04-12: 0</title></circle>
+<circle cx="267.1" cy="260" r="9" fill="transparent"><title>Week of 2026-04-19: 0</title></circle>
+<circle cx="275" cy="260" r="9" fill="transparent"><title>Week of 2026-04-26: 0</title></circle>
+<circle cx="282.9" cy="260" r="9" fill="transparent"><title>Week of 2026-05-03: 0</title></circle>
+<circle cx="290.8" cy="260" r="9" fill="transparent"><title>Week of 2026-05-10: 0</title></circle>
+<circle cx="298.7" cy="260" r="9" fill="transparent"><title>Week of 2026-05-17: 0</title></circle>
+<circle cx="306.5" cy="260" r="9" fill="transparent"><title>Week of 2026-05-24: 0</title></circle>
+<circle cx="314.4" cy="260" r="9" fill="transparent"><title>Week of 2026-05-31: 0</title></circle>
+<circle cx="322.3" cy="260" r="9" fill="transparent"><title>Week of 2026-06-07: 0</title></circle>
+<circle cx="330.2" cy="260" r="9" fill="transparent"><title>Week of 2026-06-14: 0</title></circle>
+<circle cx="338.1" cy="260" r="9" fill="transparent"><title>Week of 2026-06-21: 0</title></circle>
+<circle cx="346" cy="260" r="9" fill="transparent"><title>Week of 2026-06-28: 0</title></circle>
+<circle cx="353.8" cy="260" r="9" fill="transparent"><title>Week of 2026-07-05: 0</title></circle>
+<circle cx="361.7" cy="260" r="9" fill="transparent"><title>Week of 2026-07-12: 0</title></circle>
+<circle cx="369.6" cy="260" r="9" fill="transparent"><title>Week of 2026-07-19: 0</title></circle>
+<circle cx="377.5" cy="260" r="9" fill="transparent"><title>Week of 2026-07-26: 0</title></circle>
+<circle cx="385.4" cy="260" r="9" fill="transparent"><title>Week of 2026-08-02: 0</title></circle>
+<circle cx="393.3" cy="260" r="9" fill="transparent"><title>Week of 2026-08-09: 0</title></circle>
+<circle cx="401.2" cy="260" r="9" fill="transparent"><title>Week of 2026-08-16: 0</title></circle>
+<circle cx="409" cy="260" r="9" fill="transparent"><title>Week of 2026-08-23: 0</title></circle>
+<circle cx="416.9" cy="260" r="9" fill="transparent"><title>Week of 2026-08-30: 0</title></circle>
+<circle cx="424.8" cy="260" r="9" fill="transparent"><title>Week of 2026-09-06: 0</title></circle>
+<circle cx="432.7" cy="260" r="9" fill="transparent"><title>Week of 2026-09-13: 0</title></circle>
+<circle cx="440.6" cy="260" r="9" fill="transparent"><title>Week of 2026-09-20: 0</title></circle>
+<circle cx="448.5" cy="260" r="9" fill="transparent"><title>Week of 2026-09-27: 0</title></circle>
+<circle cx="456.3" cy="260" r="9" fill="transparent"><title>Week of 2026-10-04: 0</title></circle>
+<circle cx="464.2" cy="260" r="9" fill="transparent"><title>Week of 2026-10-11: 0</title></circle>
+<circle cx="472.1" cy="110" r="9" fill="transparent"><title>Week of 2026-10-18: 2</title></circle>
+<circle cx="480" cy="260" r="9" fill="transparent"><title>Week of 2026-10-25: 0</title></circle>
 <line x1="530" y1="66" x2="530" y2="288" stroke="#30363d"/>
 <text class="k muted" x="562" y="80">Shape of the week, past year</text>
 <line x1="600" y1="260" x2="940" y2="260" stroke="#30363d"/>
